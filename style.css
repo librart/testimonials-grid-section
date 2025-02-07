@@ -218,8 +218,8 @@ body {
   .card:nth-child(3),
   .card:nth-child(4),
   .card:nth-child(5) {
-    padding: 20px 32px 26px 32px;
-    gap: 10px;
+    padding: 20px 32px;
+    gap: 6px;
   }
 
   .card:nth-child(1) {
